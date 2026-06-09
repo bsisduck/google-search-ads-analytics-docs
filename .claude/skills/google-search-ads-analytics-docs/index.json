@@ -1,0 +1,2747 @@
+[
+{
+"doc_id": "KNOWLEDGE-BASE-ARCHITECTURE.md",
+"path": "Docs/KNOWLEDGE-BASE-ARCHITECTURE.md",
+"title": "Knowledge Base Architecture Decision — jak mapować korpus dla agenta AI",
+"product": "Google",
+"section": "General",
+"source_url": "",
+"bytes": 10523
+},
+{
+"doc_id": "google-ads-help/answer-10010286.md",
+"path": "Docs/google-ads-help/answer-10010286.md",
+"title": "About Customer Match",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/10010286?hl=en",
+"bytes": 8775
+},
+{
+"doc_id": "google-ads-help/answer-10023042.md",
+"path": "Docs/google-ads-help/answer-10023042.md",
+"title": "Developer support",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/10023042?hl=en",
+"bytes": 6780
+},
+{
+"doc_id": "google-ads-help/answer-10417364.md",
+"path": "Docs/google-ads-help/answer-10417364.md",
+"title": "How will it affect me?",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/10417364?hl=en",
+"bytes": 15193
+},
+{
+"doc_id": "google-ads-help/answer-11189316.md",
+"path": "Docs/google-ads-help/answer-11189316.md",
+"title": "Multiply conversions with Performance Max",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/11189316?hl=en",
+"bytes": 25792
+},
+{
+"doc_id": "google-ads-help/answer-12131000.md",
+"path": "Docs/google-ads-help/answer-12131000.md",
+"title": "About App Connect",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/12131000?hl=en",
+"bytes": 8771
+},
+{
+"doc_id": "google-ads-help/answer-12575501.md",
+"path": "Docs/google-ads-help/answer-12575501.md",
+"title": "Set up an App campaign for installs",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/12575501?hl=en",
+"bytes": 7999
+},
+{
+"doc_id": "google-ads-help/answer-12961402.md",
+"path": "Docs/google-ads-help/answer-12961402.md",
+"title": "Enable Google Ads app conversion tracking using a third-party AAP",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/12961402?hl=en",
+"bytes": 32852
+},
+{
+"doc_id": "google-ads-help/answer-13489421.md",
+"path": "Docs/google-ads-help/answer-13489421.md",
+"title": "Best practices for generating high-quality leads",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/13489421?hl=en",
+"bytes": 21013
+},
+{
+"doc_id": "google-ads-help/answer-13823256.md",
+"path": "Docs/google-ads-help/answer-13823256.md",
+"title": "Before you begin",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/13823256?hl=en",
+"bytes": 16179
+},
+{
+"doc_id": "google-ads-help/answer-14193508.md",
+"path": "Docs/google-ads-help/answer-14193508.md",
+"title": "Research",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/14193508?hl=en",
+"bytes": 4374
+},
+{
+"doc_id": "google-ads-help/answer-14287035.md",
+"path": "Docs/google-ads-help/answer-14287035.md",
+"title": "Customer Success Story:",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/14287035?hl=en",
+"bytes": 8563
+},
+{
+"doc_id": "google-ads-help/answer-14693848.md",
+"path": "Docs/google-ads-help/answer-14693848.md",
+"title": "The YouTube Performance Four",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/14693848?hl=en",
+"bytes": 11173
+},
+{
+"doc_id": "google-ads-help/answer-14733311.md",
+"path": "Docs/google-ads-help/answer-14733311.md",
+"title": "Creative Excellence Guide for Demand Gen Campaigns",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/14733311?hl=en",
+"bytes": 6463
+},
+{
+"doc_id": "google-ads-help/answer-14752782.md",
+"path": "Docs/google-ads-help/answer-14752782.md",
+"title": "Take action with the ABC’s of account structure:",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/14752782?hl=en",
+"bytes": 3822
+},
+{
+"doc_id": "google-ads-help/answer-14885959.md",
+"path": "Docs/google-ads-help/answer-14885959.md",
+"title": "Get the full value from your web and app channels",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/14885959?hl=en",
+"bytes": 9600
+},
+{
+"doc_id": "google-ads-help/answer-15542751.md",
+"path": "Docs/google-ads-help/answer-15542751.md",
+"title": "Best Practices for YouTube reach, views, and engagements Video Campaigns",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/15542751?hl=en",
+"bytes": 24059
+},
+{
+"doc_id": "google-ads-help/answer-16517525.md",
+"path": "Docs/google-ads-help/answer-16517525.md",
+"title": "Data Strength Best Practices",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/16517525?hl=en",
+"bytes": 16608
+},
+{
+"doc_id": "google-ads-help/answer-2401634.md",
+"path": "Docs/google-ads-help/answer-2401634.md",
+"title": "Benefits",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/2401634?hl=en",
+"bytes": 2607
+},
+{
+"doc_id": "google-ads-help/answer-6154846.md",
+"path": "Docs/google-ads-help/answer-6154846.md",
+"title": "Improve your campaign performance",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6154846?hl=en",
+"bytes": 3122
+},
+{
+"doc_id": "google-ads-help/answer-6167110.md",
+"path": "Docs/google-ads-help/answer-6167110.md",
+"title": "Reaching the right customers on Search",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6167110?hl=en",
+"bytes": 20216
+},
+{
+"doc_id": "google-ads-help/answer-6167122.md",
+"path": "Docs/google-ads-help/answer-6167122.md",
+"title": "Tips for ad strength and assets",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"bytes": 10119
+},
+{
+"doc_id": "google-ads-help/answer-6167140.md",
+"path": "Docs/google-ads-help/answer-6167140.md",
+"title": "Finding success with Smart Bidding",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6167140?hl=en",
+"bytes": 4005
+},
+{
+"doc_id": "google-ads-help/answer-6167162.md",
+"path": "Docs/google-ads-help/answer-6167162.md",
+"title": "Best practices guide: Setting up your App campaigns",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6167162?hl=en",
+"bytes": 8915
+},
+{
+"doc_id": "google-ads-help/answer-6167176.md",
+"path": "Docs/google-ads-help/answer-6167176.md",
+"title": "Who is this guide for?",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6167176?hl=en",
+"bytes": 23645
+},
+{
+"doc_id": "google-ads-help/answer-6175276.md",
+"path": "Docs/google-ads-help/answer-6175276.md",
+"title": "1. Determine if driving calls is your most valuable goal",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6175276?hl=en",
+"bytes": 3702
+},
+{
+"doc_id": "google-ads-help/answer-6175315.md",
+"path": "Docs/google-ads-help/answer-6175315.md",
+"title": "Customer Success story",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6175315?hl=en",
+"bytes": 4545
+},
+{
+"doc_id": "google-ads-help/answer-6190135.md",
+"path": "Docs/google-ads-help/answer-6190135.md",
+"title": "Step 1: Build your digital storefront",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6190135?hl=en",
+"bytes": 2550
+},
+{
+"doc_id": "google-ads-help/answer-6382966.md",
+"path": "Docs/google-ads-help/answer-6382966.md",
+"title": "Optimize your Display campaigns",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/6382966?hl=en",
+"bytes": 5486
+},
+{
+"doc_id": "google-ads-help/answer-7065882.md",
+"path": "Docs/google-ads-help/answer-7065882.md",
+"title": "Smart Bidding strategies",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/7065882?hl=en",
+"bytes": 17380
+},
+{
+"doc_id": "google-ads-help/answer-7281575.md",
+"path": "Docs/google-ads-help/answer-7281575.md",
+"title": "Case Study",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/7281575?hl=en",
+"bytes": 4291
+},
+{
+"doc_id": "google-ads-help/answer-7365001.md",
+"path": "Docs/google-ads-help/answer-7365001.md",
+"title": "How to share a link with other Google Ads accounts",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/7365001?hl=en",
+"bytes": 8466
+},
+{
+"doc_id": "google-ads-help/answer-9470736.md",
+"path": "Docs/google-ads-help/answer-9470736.md",
+"title": "Stay connected with the Google Ads mobile app",
+"product": "Google Ads",
+"section": "Help Center",
+"source_url": "https://support.google.com/google-ads/answer/9470736?hl=en",
+"bytes": 3294
+},
+{
+"doc_id": "google-analytics/collection-app/index.md",
+"path": "Docs/google-analytics/collection-app/index.md",
+"title": "Google Analytics for apps",
+"product": "Google Analytics 4",
+"section": "App (Firebase)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/app?hl=en",
+"bytes": 2033
+},
+{
+"doc_id": "google-analytics/collection-ga4/apply-discount.md",
+"path": "Docs/google-analytics/collection-ga4/apply-discount.md",
+"title": "Apply a discount to an ecommerce event",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/apply-discount?hl=en&client_type=gtag",
+"bytes": 4401
+},
+{
+"doc_id": "google-analytics/collection-ga4/ecommerce.md",
+"path": "Docs/google-analytics/collection-ga4/ecommerce.md",
+"title": "Measure ecommerce",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?hl=en&client_type=gtag",
+"bytes": 22107
+},
+{
+"doc_id": "google-analytics/collection-ga4/event-parameters.md",
+"path": "Docs/google-analytics/collection-ga4/event-parameters.md",
+"title": "Set up event parameters",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/event-parameters?hl=en&client_type=gtag",
+"bytes": 7246
+},
+{
+"doc_id": "google-analytics/collection-ga4/events.md",
+"path": "Docs/google-analytics/collection-ga4/events.md",
+"title": "Set up events",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/events?hl=en&client_type=gtag",
+"bytes": 6754
+},
+{
+"doc_id": "google-analytics/collection-ga4/exceptions.md",
+"path": "Docs/google-analytics/collection-ga4/exceptions.md",
+"title": "Measure exceptions",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/exceptions?hl=en&client_type=gtag",
+"bytes": 1717
+},
+{
+"doc_id": "google-analytics/collection-ga4/index.md",
+"path": "Docs/google-analytics/collection-ga4/index.md",
+"title": "Google Analytics for developers",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4?hl=en&client_type=gtag",
+"bytes": 3729
+},
+{
+"doc_id": "google-analytics/collection-ga4/item-scoped-ecommerce.md",
+"path": "Docs/google-analytics/collection-ga4/item-scoped-ecommerce.md",
+"title": "Create item-scoped custom parameters",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/item-scoped-ecommerce?hl=en&client_type=gtag",
+"bytes": 2466
+},
+{
+"doc_id": "google-analytics/collection-ga4/set-up-ecommerce.md",
+"path": "Docs/google-analytics/collection-ga4/set-up-ecommerce.md",
+"title": "Set up a purchase event",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/set-up-ecommerce?hl=en&client_type=gtag",
+"bytes": 11690
+},
+{
+"doc_id": "google-analytics/collection-ga4/single-page-applications.md",
+"path": "Docs/google-analytics/collection-ga4/single-page-applications.md",
+"title": "Measure single-page applications",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/single-page-applications?hl=en&client_type=gtag",
+"bytes": 8277
+},
+{
+"doc_id": "google-analytics/collection-ga4/tag-options.md",
+"path": "Docs/google-analytics/collection-ga4/tag-options.md",
+"title": "Tagging for Google Analytics",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/tag-options?hl=en&client_type=gtag",
+"bytes": 5663
+},
+{
+"doc_id": "google-analytics/collection-ga4/troubleshoot.md",
+"path": "Docs/google-analytics/collection-ga4/troubleshoot.md",
+"title": "Verify and troubleshoot your Google Analytics setup",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/troubleshoot?hl=en&client_type=gtag",
+"bytes": 4620
+},
+{
+"doc_id": "google-analytics/collection-ga4/uid-data.md",
+"path": "Docs/google-analytics/collection-ga4/uid-data.md",
+"title": "Send user-provided data using Measurement Protocol",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/uid-data?hl=en&client_type=gtag",
+"bytes": 9744
+},
+{
+"doc_id": "google-analytics/collection-ga4/user-id.md",
+"path": "Docs/google-analytics/collection-ga4/user-id.md",
+"title": "Send user IDs",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/user-id?hl=en&client_type=gtag",
+"bytes": 7824
+},
+{
+"doc_id": "google-analytics/collection-ga4/validate-ecommerce.md",
+"path": "Docs/google-analytics/collection-ga4/validate-ecommerce.md",
+"title": "Validate your ecommerce setup (gtag.js)",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/validate-ecommerce?hl=en&client_type=gtag",
+"bytes": 5023
+},
+{
+"doc_id": "google-analytics/collection-ga4/views.md",
+"path": "Docs/google-analytics/collection-ga4/views.md",
+"title": "Measure pageviews",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/views?hl=en&client_type=gtag",
+"bytes": 5140
+},
+{
+"doc_id": "google-analytics/collection-ga4/web.md",
+"path": "Docs/google-analytics/collection-ga4/web.md",
+"title": "Google Analytics for websites",
+"product": "Google Analytics 4",
+"section": "Collection (gtag)",
+"source_url": "https://developers.google.com/analytics/devguides/collection/ga4/web?hl=en&client_type=gtag",
+"bytes": 2088
+},
+{
+"doc_id": "google-analytics/measurement-protocol/index.md",
+"path": "Docs/google-analytics/measurement-protocol/index.md",
+"title": "Measurement Protocol",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4?hl=en&client_type=gtag",
+"bytes": 5811
+},
+{
+"doc_id": "google-analytics/measurement-protocol/sending-events.md",
+"path": "Docs/google-analytics/measurement-protocol/sending-events.md",
+"title": "Send Measurement Protocol events to Google Analytics",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4/sending-events?hl=en&client_type=gtag",
+"bytes": 13892
+},
+{
+"doc_id": "google-analytics/measurement-protocol/troubleshooting.md",
+"path": "Docs/google-analytics/measurement-protocol/troubleshooting.md",
+"title": "Troubleshooting",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4/troubleshooting?hl=en&client_type=gtag",
+"bytes": 6012
+},
+{
+"doc_id": "google-analytics/measurement-protocol/use-cases.md",
+"path": "Docs/google-analytics/measurement-protocol/use-cases.md",
+"title": "Measurement protocol use cases",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4/use-cases?hl=en&client_type=gtag",
+"bytes": 6527
+},
+{
+"doc_id": "google-analytics/measurement-protocol/user-properties.md",
+"path": "Docs/google-analytics/measurement-protocol/user-properties.md",
+"title": "Send user properties",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4/user-properties?hl=en&client_type=gtag",
+"bytes": 5092
+},
+{
+"doc_id": "google-analytics/measurement-protocol/validating-events.md",
+"path": "Docs/google-analytics/measurement-protocol/validating-events.md",
+"title": "Validate events",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4/validating-events?hl=en&client_type=gtag",
+"bytes": 6043
+},
+{
+"doc_id": "google-analytics/measurement-protocol/verify-implementation.md",
+"path": "Docs/google-analytics/measurement-protocol/verify-implementation.md",
+"title": "Verify implementation",
+"product": "Google Analytics 4",
+"section": "Measurement Protocol",
+"source_url": "https://developers.google.com/analytics/devguides/collection/protocol/ga4/verify-implementation?hl=en&client_type=gtag",
+"bytes": 4278
+},
+{
+"doc_id": "google-analytics/support/answer-10071811.md",
+"path": "Docs/google-analytics/support/answer-10071811.md",
+"title": "Manual setup",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/10071811?hl=en",
+"bytes": 8747
+},
+{
+"doc_id": "google-analytics/support/answer-10075209.md",
+"path": "Docs/google-analytics/support/answer-10075209.md",
+"title": "Custom dimensions",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/10075209?hl=en",
+"bytes": 8930
+},
+{
+"doc_id": "google-analytics/support/answer-10089681.md",
+"path": "Docs/google-analytics/support/answer-10089681.md",
+"title": "How to get started with Google Analytics",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/10089681?hl=en",
+"bytes": 3205
+},
+{
+"doc_id": "google-analytics/support/answer-10447272.md",
+"path": "Docs/google-analytics/support/answer-10447272.md",
+"title": "Get insights on your website or app, at no cost",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/10447272?hl=en",
+"bytes": 124624
+},
+{
+"doc_id": "google-analytics/support/answer-10999789.md",
+"path": "Docs/google-analytics/support/answer-10999789.md",
+"title": "View the report",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/10999789?hl=en",
+"bytes": 12098
+},
+{
+"doc_id": "google-analytics/support/answer-11583528.md",
+"path": "Docs/google-analytics/support/answer-11583528.md",
+"title": "Understand the migration timeline",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/11583528?hl=en",
+"bytes": 18492
+},
+{
+"doc_id": "google-analytics/support/answer-11994839.md",
+"path": "Docs/google-analytics/support/answer-11994839.md",
+"title": "Benefits",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/11994839?hl=en",
+"bytes": 5904
+},
+{
+"doc_id": "google-analytics/support/answer-12131703.md",
+"path": "Docs/google-analytics/support/answer-12131703.md",
+"title": "Verify that cross-domain measurement is working properly",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/12131703?hl=en",
+"bytes": 19448
+},
+{
+"doc_id": "google-analytics/support/answer-12813202.md",
+"path": "Docs/google-analytics/support/answer-12813202.md",
+"title": "\\\\GA4\\\\ Navigate to your account and property",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/12813202?hl=en",
+"bytes": 7983
+},
+{
+"doc_id": "google-analytics/support/answer-7686480.md",
+"path": "Docs/google-analytics/support/answer-7686480.md",
+"title": "What Google considers PII",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/7686480?hl=en",
+"bytes": 2877
+},
+{
+"doc_id": "google-analytics/support/answer-9143382.md",
+"path": "Docs/google-analytics/support/answer-9143382.md",
+"title": "Analytics dimensions and metrics",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9143382?hl=en",
+"bytes": 159820
+},
+{
+"doc_id": "google-analytics/support/answer-9216061.md",
+"path": "Docs/google-analytics/support/answer-9216061.md",
+"title": "Enable or disable enhanced measurement events",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9216061?hl=en",
+"bytes": 8433
+},
+{
+"doc_id": "google-analytics/support/answer-9304153.md",
+"path": "Docs/google-analytics/support/answer-9304153.md",
+"title": "See if your CMS lets you enter just your Google tag ID",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9304153?hl=en",
+"bytes": 14548
+},
+{
+"doc_id": "google-analytics/support/answer-9305587.md",
+"path": "Docs/google-analytics/support/answer-9305587.md",
+"title": "Cost and revenue metrics",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9305587?hl=en",
+"bytes": 16087
+},
+{
+"doc_id": "google-analytics/support/answer-9355666.md",
+"path": "Docs/google-analytics/support/answer-9355666.md",
+"title": "Property",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9355666?hl=en",
+"bytes": 7142
+},
+{
+"doc_id": "google-analytics/support/answer-9355848.md",
+"path": "Docs/google-analytics/support/answer-9355848.md",
+"title": "Key event",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9355848?hl=en",
+"bytes": 7814
+},
+{
+"doc_id": "google-analytics/support/answer-9379599.md",
+"path": "Docs/google-analytics/support/answer-9379599.md",
+"title": "How to access the next generation of app analytics",
+"product": "Google Analytics 4",
+"section": "Help Center",
+"source_url": "https://support.google.com/analytics/answer/9379599?hl=en",
+"bytes": 4333
+},
+{
+"doc_id": "search-central/case-studies/overview.md",
+"path": "Docs/search-central/case-studies/overview.md",
+"title": "Spot something weird? Send us feedback",
+"product": "Google Search Central",
+"section": "Case Studies",
+"source_url": "https://developers.google.com/search/case-studies/overview?hl=en",
+"bytes": 775
+},
+{
+"doc_id": "search-central/crawling-docs/crawlers-fetchers/overview-google-crawlers.md",
+"path": "Docs/search-central/crawling-docs/crawlers-fetchers/overview-google-crawlers.md",
+"title": "Overview of Google crawlers and fetchers (user agents)",
+"product": "Google Search Central",
+"section": "Crawler Specs",
+"source_url": "https://developers.google.com/crawling/docs/crawlers-fetchers/overview-google-crawlers?hl=en",
+"bytes": 8782
+},
+{
+"doc_id": "search-central/crawling-docs/crawlers-fetchers/reduce-crawl-rate.md",
+"path": "Docs/search-central/crawling-docs/crawlers-fetchers/reduce-crawl-rate.md",
+"title": "Reduce the Google crawl rate",
+"product": "Google Search Central",
+"section": "Crawler Specs",
+"source_url": "https://developers.google.com/crawling/docs/crawlers-fetchers/reduce-crawl-rate?hl=en",
+"bytes": 4156
+},
+{
+"doc_id": "search-central/crawling-docs/crawlers-fetchers/verifying-googlebot.md",
+"path": "Docs/search-central/crawling-docs/crawlers-fetchers/verifying-googlebot.md",
+"title": "Verify requests from Google crawlers and fetchers",
+"product": "Google Search Central",
+"section": "Crawler Specs",
+"source_url": "https://developers.google.com/crawling/docs/crawlers-fetchers/verifying-googlebot?hl=en",
+"bytes": 5488
+},
+{
+"doc_id": "search-central/crawling-docs/robots-txt/robots-txt-spec.md",
+"path": "Docs/search-central/crawling-docs/robots-txt/robots-txt-spec.md",
+"title": "How Google interprets the robots.txt specification",
+"product": "Google Search Central",
+"section": "Crawler Specs",
+"source_url": "https://developers.google.com/crawling/docs/robots-txt/robots-txt-spec?hl=en",
+"bytes": 20115
+},
+{
+"doc_id": "search-central/docs/advanced/guidelines/tag-child-directed-treatment.md",
+"path": "Docs/search-central/docs/advanced/guidelines/tag-child-directed-treatment.md",
+"title": "Tag site for child-directed treatment",
+"product": "Google Search Central",
+"section": "Docs / Advanced Guidelines",
+"source_url": "https://developers.google.com/search/docs/advanced/guidelines/tag-child-directed-treatment?hl=en",
+"bytes": 4067
+},
+{
+"doc_id": "search-central/docs/appearance/ad-network-and-translation.md",
+"path": "Docs/search-central/docs/appearance/ad-network-and-translation.md",
+"title": "Enabling your ad network to work with translation-related Google Search features",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/ad-network-and-translation?hl=en",
+"bytes": 6083
+},
+{
+"doc_id": "search-central/docs/appearance/ai-features.md",
+"path": "Docs/search-central/docs/appearance/ai-features.md",
+"title": "AI features and your website",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/ai-features?hl=en",
+"bytes": 8609
+},
+{
+"doc_id": "search-central/docs/appearance/avoid-intrusive-interstitials.md",
+"path": "Docs/search-central/docs/appearance/avoid-intrusive-interstitials.md",
+"title": "Avoid intrusive interstitials and dialogs",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials?hl=en",
+"bytes": 4691
+},
+{
+"doc_id": "search-central/docs/appearance/core-updates.md",
+"path": "Docs/search-central/docs/appearance/core-updates.md",
+"title": "Google Search's core updates and your website",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/core-updates?hl=en",
+"bytes": 7140
+},
+{
+"doc_id": "search-central/docs/appearance/core-web-vitals.md",
+"path": "Docs/search-central/docs/appearance/core-web-vitals.md",
+"title": "Understanding Core Web Vitals and Google search results",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/core-web-vitals?hl=en",
+"bytes": 2623
+},
+{
+"doc_id": "search-central/docs/appearance/enable-web-stories.md",
+"path": "Docs/search-central/docs/appearance/enable-web-stories.md",
+"title": "Enable Web Stories on Google",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/enable-web-stories?hl=en",
+"bytes": 5674
+},
+{
+"doc_id": "search-central/docs/appearance/enriched-search-results.md",
+"path": "Docs/search-central/docs/appearance/enriched-search-results.md",
+"title": "Enriched search results",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/enriched-search-results?hl=en",
+"bytes": 4910
+},
+{
+"doc_id": "search-central/docs/appearance/establish-business-details.md",
+"path": "Docs/search-central/docs/appearance/establish-business-details.md",
+"title": "Establish your business details with Google",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/establish-business-details?hl=en",
+"bytes": 5261
+},
+{
+"doc_id": "search-central/docs/appearance/favicon-in-search.md",
+"path": "Docs/search-central/docs/appearance/favicon-in-search.md",
+"title": "Define a favicon to show in search results",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/favicon-in-search?hl=en",
+"bytes": 5252
+},
+{
+"doc_id": "search-central/docs/appearance/featured-snippets.md",
+"path": "Docs/search-central/docs/appearance/featured-snippets.md",
+"title": "Featured snippets and your website",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/featured-snippets?hl=en",
+"bytes": 3662
+},
+{
+"doc_id": "search-central/docs/appearance/flexible-sampling.md",
+"path": "Docs/search-central/docs/appearance/flexible-sampling.md",
+"title": "Flexible Sampling general guidance",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/flexible-sampling?hl=en",
+"bytes": 5348
+},
+{
+"doc_id": "search-central/docs/appearance/google-discover.md",
+"path": "Docs/search-central/docs/appearance/google-discover.md",
+"title": "Discover and your website",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/google-discover?hl=en",
+"bytes": 7730
+},
+{
+"doc_id": "search-central/docs/appearance/google-images.md",
+"path": "Docs/search-central/docs/appearance/google-images.md",
+"title": "Google image SEO best practices",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/google-images?hl=en",
+"bytes": 15062
+},
+{
+"doc_id": "search-central/docs/appearance/index.md",
+"path": "Docs/search-central/docs/appearance/index.md",
+"title": "Overview of Search appearance topics",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance?hl=en",
+"bytes": 5238
+},
+{
+"doc_id": "search-central/docs/appearance/package-tracking.md",
+"path": "Docs/search-central/docs/appearance/package-tracking.md",
+"title": "Package tracking Early Adopters Program",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/package-tracking?hl=en",
+"bytes": 3959
+},
+{
+"doc_id": "search-central/docs/appearance/page-experience.md",
+"path": "Docs/search-central/docs/appearance/page-experience.md",
+"title": "Understanding page experience in Google Search results",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/page-experience?hl=en",
+"bytes": 4779
+},
+{
+"doc_id": "search-central/docs/appearance/preferred-sources.md",
+"path": "Docs/search-central/docs/appearance/preferred-sources.md",
+"title": "Help your readers find your site through preferred sources in Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/preferred-sources?hl=en",
+"bytes": 5052
+},
+{
+"doc_id": "search-central/docs/appearance/publication-dates.md",
+"path": "Docs/search-central/docs/appearance/publication-dates.md",
+"title": "Influence your byline dates in Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/publication-dates?hl=en",
+"bytes": 5143
+},
+{
+"doc_id": "search-central/docs/appearance/ranking-systems-guide.md",
+"path": "Docs/search-central/docs/appearance/ranking-systems-guide.md",
+"title": "A guide to Google Search ranking systems",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide?hl=en",
+"bytes": 14727
+},
+{
+"doc_id": "search-central/docs/appearance/reviews-system.md",
+"path": "Docs/search-central/docs/appearance/reviews-system.md",
+"title": "Google Search's reviews system and your website",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/reviews-system?hl=en",
+"bytes": 2933
+},
+{
+"doc_id": "search-central/docs/appearance/signed-exchange.md",
+"path": "Docs/search-central/docs/appearance/signed-exchange.md",
+"title": "Get started with signed exchanges on Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/signed-exchange?hl=en",
+"bytes": 6124
+},
+{
+"doc_id": "search-central/docs/appearance/site-names.md",
+"path": "Docs/search-central/docs/appearance/site-names.md",
+"title": "Provide a site name to Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/site-names?hl=en",
+"bytes": 15292
+},
+{
+"doc_id": "search-central/docs/appearance/sitelinks.md",
+"path": "Docs/search-central/docs/appearance/sitelinks.md",
+"title": "Sitelinks",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/sitelinks?hl=en",
+"bytes": 2012
+},
+{
+"doc_id": "search-central/docs/appearance/snippet.md",
+"path": "Docs/search-central/docs/appearance/snippet.md",
+"title": "Control your snippets in search results",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/snippet?hl=en",
+"bytes": 9183
+},
+{
+"doc_id": "search-central/docs/appearance/spam-updates.md",
+"path": "Docs/search-central/docs/appearance/spam-updates.md",
+"title": "Google Search spam updates and your site",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/spam-updates?hl=en",
+"bytes": 1815
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/article.md",
+"path": "Docs/search-central/docs/appearance/structured-data/article.md",
+"title": "Article (`Article`, `NewsArticle`, `BlogPosting`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/article?hl=en",
+"bytes": 17683
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/book.md",
+"path": "Docs/search-central/docs/appearance/structured-data/book.md",
+"title": "Book actions (`Book`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/book?hl=en",
+"bytes": 47880
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/breadcrumb.md",
+"path": "Docs/search-central/docs/appearance/structured-data/breadcrumb.md",
+"title": "Breadcrumb (`BreadcrumbList`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb?hl=en",
+"bytes": 26039
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/carousel.md",
+"path": "Docs/search-central/docs/appearance/structured-data/carousel.md",
+"title": "Carousel (`ItemList`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/carousel?hl=en",
+"bytes": 35887
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/carousels-beta.md",
+"path": "Docs/search-central/docs/appearance/structured-data/carousels-beta.md",
+"title": "Structured data carousels (beta)",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=en",
+"bytes": 42776
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/course.md",
+"path": "Docs/search-central/docs/appearance/structured-data/course.md",
+"title": "Course list (`Course`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/course?hl=en",
+"bytes": 14688
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/dataset.md",
+"path": "Docs/search-central/docs/appearance/structured-data/dataset.md",
+"title": "Dataset (`Dataset`, `DataCatalog`, `DataDownload`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/dataset?hl=en",
+"bytes": 39110
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/discussion-forum.md",
+"path": "Docs/search-central/docs/appearance/structured-data/discussion-forum.md",
+"title": "Discussion forum (`DiscussionForumPosting`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/discussion-forum?hl=en",
+"bytes": 36513
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/education-qa.md",
+"path": "Docs/search-central/docs/appearance/structured-data/education-qa.md",
+"title": "Education Q&A (`Quiz`, `Question`, and `Answer`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/education-qa?hl=en",
+"bytes": 17985
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/employer-rating.md",
+"path": "Docs/search-central/docs/appearance/structured-data/employer-rating.md",
+"title": "Employer aggregate rating (`EmployerAggregateRating`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/employer-rating?hl=en",
+"bytes": 10832
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/event.md",
+"path": "Docs/search-central/docs/appearance/structured-data/event.md",
+"title": "Event (`Event`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/event?hl=en",
+"bytes": 41398
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/factcheck.md",
+"path": "Docs/search-central/docs/appearance/structured-data/factcheck.md",
+"title": "Fact check (`ClaimReview`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=en",
+"bytes": 21167
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/faqpage.md",
+"path": "Docs/search-central/docs/appearance/structured-data/faqpage.md",
+"title": "FAQ (`FAQPage`, `Question`, `Answer`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/faqpage?hl=en",
+"bytes": 16909
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/generate-structured-data-with-javascript.md",
+"path": "Docs/search-central/docs/appearance/structured-data/generate-structured-data-with-javascript.md",
+"title": "Generate structured data with JavaScript",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/generate-structured-data-with-javascript?hl=en",
+"bytes": 6748
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/image-license-metadata.md",
+"path": "Docs/search-central/docs/appearance/structured-data/image-license-metadata.md",
+"title": "Image metadata in Google Images",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata?hl=en",
+"bytes": 37057
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/intro-structured-data.md",
+"path": "Docs/search-central/docs/appearance/structured-data/intro-structured-data.md",
+"title": "Introduction to structured data markup in Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=en",
+"bytes": 12567
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/job-posting.md",
+"path": "Docs/search-central/docs/appearance/structured-data/job-posting.md",
+"title": "Job posting (`JobPosting`) structured data for Job Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/job-posting?hl=en",
+"bytes": 52931
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/local-business.md",
+"path": "Docs/search-central/docs/appearance/structured-data/local-business.md",
+"title": "Local business (`LocalBusiness`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=en",
+"bytes": 27832
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/loyalty-program.md",
+"path": "Docs/search-central/docs/appearance/structured-data/loyalty-program.md",
+"title": "Loyalty program (`MemberProgram`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/loyalty-program?hl=en",
+"bytes": 14259
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/math-solvers.md",
+"path": "Docs/search-central/docs/appearance/structured-data/math-solvers.md",
+"title": "Math solver (`MathSolver`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/math-solvers?hl=en",
+"bytes": 19981
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/merchant-listing.md",
+"path": "Docs/search-central/docs/appearance/structured-data/merchant-listing.md",
+"title": "Merchant listing (`Product`, `Offer`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/merchant-listing?hl=en",
+"bytes": 91490
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/movie.md",
+"path": "Docs/search-central/docs/appearance/structured-data/movie.md",
+"title": "Movie carousel (`Movie`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/movie?hl=en",
+"bytes": 14413
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/organization.md",
+"path": "Docs/search-central/docs/appearance/structured-data/organization.md",
+"title": "Organization (`Organization`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/organization?hl=en",
+"bytes": 23063
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/paywalled-content.md",
+"path": "Docs/search-central/docs/appearance/structured-data/paywalled-content.md",
+"title": "Structured data for subscription and paywalled content (`CreativeWork`)",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/paywalled-content?hl=en",
+"bytes": 12103
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/product-snippet.md",
+"path": "Docs/search-central/docs/appearance/structured-data/product-snippet.md",
+"title": "Product snippet (`Product`, `Review`, `Offer`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/product-snippet?hl=en",
+"bytes": 49436
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/product-variants.md",
+"path": "Docs/search-central/docs/appearance/structured-data/product-variants.md",
+"title": "Product variant structured data (`ProductGroup`, `Product`)",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/product-variants?hl=en",
+"bytes": 50970
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/product.md",
+"path": "Docs/search-central/docs/appearance/structured-data/product.md",
+"title": "Introduction to `Product` structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/product?hl=en",
+"bytes": 6878
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/profile-page.md",
+"path": "Docs/search-central/docs/appearance/structured-data/profile-page.md",
+"title": "Profile page (`ProfilePage`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/profile-page?hl=en",
+"bytes": 20119
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/qapage.md",
+"path": "Docs/search-central/docs/appearance/structured-data/qapage.md",
+"title": "Q&A (`QAPage`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/qapage?hl=en",
+"bytes": 34297
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/recipe.md",
+"path": "Docs/search-central/docs/appearance/structured-data/recipe.md",
+"title": "Recipe (`Recipe`, `HowTo`, `ItemList`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/recipe?hl=en",
+"bytes": 31474
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/return-policy.md",
+"path": "Docs/search-central/docs/appearance/structured-data/return-policy.md",
+"title": "Merchant return policy (`MerchantReturnPolicy`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/return-policy?hl=en",
+"bytes": 23940
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/review-snippet.md",
+"path": "Docs/search-central/docs/appearance/structured-data/review-snippet.md",
+"title": "Review snippet (`Review`, `AggregateRating`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=en",
+"bytes": 48774
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/sd-policies.md",
+"path": "Docs/search-central/docs/appearance/structured-data/sd-policies.md",
+"title": "General structured data guidelines",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=en",
+"bytes": 11824
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/search-gallery.md",
+"path": "Docs/search-central/docs/appearance/structured-data/search-gallery.md",
+"title": "Structured data markup that Google Search supports",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=en",
+"bytes": 10228
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/shipping-policy.md",
+"path": "Docs/search-central/docs/appearance/structured-data/shipping-policy.md",
+"title": "Merchant shipping policy (`ShippingService`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/shipping-policy?hl=en",
+"bytes": 35918
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/software-app.md",
+"path": "Docs/search-central/docs/appearance/structured-data/software-app.md",
+"title": "Software app (`SoftwareApplication`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/software-app?hl=en",
+"bytes": 12845
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/speakable.md",
+"path": "Docs/search-central/docs/appearance/structured-data/speakable.md",
+"title": "Speakable (`Article`, `WebPage`) structured data (BETA)",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/speakable?hl=en",
+"bytes": 8914
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/vacation-rental.md",
+"path": "Docs/search-central/docs/appearance/structured-data/vacation-rental.md",
+"title": "Vacation rental (`VacationRental`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/vacation-rental?hl=en",
+"bytes": 26997
+},
+{
+"doc_id": "search-central/docs/appearance/structured-data/video.md",
+"path": "Docs/search-central/docs/appearance/structured-data/video.md",
+"title": "Video (`VideoObject`, `Clip`, `BroadcastEvent`) structured data",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/structured-data/video?hl=en",
+"bytes": 46502
+},
+{
+"doc_id": "search-central/docs/appearance/title-link.md",
+"path": "Docs/search-central/docs/appearance/title-link.md",
+"title": "Influencing your title links in search results",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/title-link?hl=en",
+"bytes": 12111
+},
+{
+"doc_id": "search-central/docs/appearance/top-places-list.md",
+"path": "Docs/search-central/docs/appearance/top-places-list.md",
+"title": "Top Places List",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/top-places-list?hl=en",
+"bytes": 1742
+},
+{
+"doc_id": "search-central/docs/appearance/translated-results.md",
+"path": "Docs/search-central/docs/appearance/translated-results.md",
+"title": "Translated results in Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/translated-results?hl=en",
+"bytes": 3686
+},
+{
+"doc_id": "search-central/docs/appearance/video.md",
+"path": "Docs/search-central/docs/appearance/video.md",
+"title": "Video SEO best practices",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/video?hl=en",
+"bytes": 24383
+},
+{
+"doc_id": "search-central/docs/appearance/visual-elements-gallery.md",
+"path": "Docs/search-central/docs/appearance/visual-elements-gallery.md",
+"title": "Visual Elements gallery of Google Search",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/visual-elements-gallery?hl=en",
+"bytes": 11420
+},
+{
+"doc_id": "search-central/docs/appearance/web-stories-content-policy.md",
+"path": "Docs/search-central/docs/appearance/web-stories-content-policy.md",
+"title": "Web Story Content Policies on Google",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/web-stories-content-policy?hl=en",
+"bytes": 3302
+},
+{
+"doc_id": "search-central/docs/appearance/web-stories-creation-best-practices.md",
+"path": "Docs/search-central/docs/appearance/web-stories-creation-best-practices.md",
+"title": "Best practices for creating Web Stories",
+"product": "Google Search Central",
+"section": "Docs / Appearance & Structured Data",
+"source_url": "https://developers.google.com/search/docs/appearance/web-stories-creation-best-practices?hl=en",
+"bytes": 10270
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/301-redirects.md",
+"path": "Docs/search-central/docs/crawling-indexing/301-redirects.md",
+"title": "Redirects and Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/301-redirects?hl=en",
+"bytes": 11866
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/amp/about-amp.md",
+"path": "Docs/search-central/docs/crawling-indexing/amp/about-amp.md",
+"title": "Understand how AMP works in search results",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/amp/about-amp?hl=en",
+"bytes": 4871
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/amp/enhance-amp.md",
+"path": "Docs/search-central/docs/crawling-indexing/amp/enhance-amp.md",
+"title": "Enhance AMP content for Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/amp/enhance-amp?hl=en",
+"bytes": 6499
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/amp/index.md",
+"path": "Docs/search-central/docs/crawling-indexing/amp/index.md",
+"title": "AMP on Google Search guidelines",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/amp?hl=en",
+"bytes": 3426
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/amp/remove-amp.md",
+"path": "Docs/search-central/docs/crawling-indexing/amp/remove-amp.md",
+"title": "Remove your AMP pages from Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/amp/remove-amp?hl=en",
+"bytes": 6141
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/amp/validate-amp.md",
+"path": "Docs/search-central/docs/crawling-indexing/amp/validate-amp.md",
+"title": "Validate AMP content for Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/amp/validate-amp?hl=en",
+"bytes": 3273
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/ask-google-to-recrawl.md",
+"path": "Docs/search-central/docs/crawling-indexing/ask-google-to-recrawl.md",
+"title": "Ask Google to recrawl your URLs",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl?hl=en",
+"bytes": 2417
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/block-indexing.md",
+"path": "Docs/search-central/docs/crawling-indexing/block-indexing.md",
+"title": "Block Search indexing with `noindex`",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=en",
+"bytes": 4840
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/canonicalization-troubleshooting.md",
+"path": "Docs/search-central/docs/crawling-indexing/canonicalization-troubleshooting.md",
+"title": "Fix canonicalization issues",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/canonicalization-troubleshooting?hl=en",
+"bytes": 4210
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/canonicalization.md",
+"path": "Docs/search-central/docs/crawling-indexing/canonicalization.md",
+"title": "What is canonicalization",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/canonicalization?hl=en",
+"bytes": 3893
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/consolidate-duplicate-urls.md",
+"path": "Docs/search-central/docs/crawling-indexing/consolidate-duplicate-urls.md",
+"title": "How to specify a canonical URL with rel=\\\"canonical\\\" and other methods",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls?hl=en",
+"bytes": 15685
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/control-what-you-share.md",
+"path": "Docs/search-central/docs/crawling-indexing/control-what-you-share.md",
+"title": "Control what you share with Google",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/control-what-you-share?hl=en",
+"bytes": 4172
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/googlebot.md",
+"path": "Docs/search-central/docs/crawling-indexing/googlebot.md",
+"title": "Googlebot",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/googlebot?hl=en",
+"bytes": 4901
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/index.md",
+"path": "Docs/search-central/docs/crawling-indexing/index.md",
+"title": "Overview of crawling and indexing topics",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing?hl=en",
+"bytes": 4519
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/indexable-file-types.md",
+"path": "Docs/search-central/docs/crawling-indexing/indexable-file-types.md",
+"title": "File types indexable by Google",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/indexable-file-types?hl=en",
+"bytes": 2619
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/javascript/dynamic-rendering.md",
+"path": "Docs/search-central/docs/crawling-indexing/javascript/dynamic-rendering.md",
+"title": "Dynamic rendering as a workaround",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/javascript/dynamic-rendering?hl=en",
+"bytes": 4452
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/javascript/fix-search-javascript.md",
+"path": "Docs/search-central/docs/crawling-indexing/javascript/fix-search-javascript.md",
+"title": "Fix Search-related JavaScript problems",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/javascript/fix-search-javascript?hl=en",
+"bytes": 10685
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/javascript/javascript-seo-basics.md",
+"path": "Docs/search-central/docs/crawling-indexing/javascript/javascript-seo-basics.md",
+"title": "Understand the JavaScript SEO basics",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics?hl=en",
+"bytes": 16954
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/javascript/lazy-loading.md",
+"path": "Docs/search-central/docs/crawling-indexing/javascript/lazy-loading.md",
+"title": "Fix lazy-loaded content",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/javascript/lazy-loading?hl=en",
+"bytes": 4139
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/keep-redacted-information-out.md",
+"path": "Docs/search-central/docs/crawling-indexing/keep-redacted-information-out.md",
+"title": "Keep redacted information out of Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/keep-redacted-information-out?hl=en",
+"bytes": 6588
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/large-site-managing-crawl-budget.md",
+"path": "Docs/search-central/docs/crawling-indexing/large-site-managing-crawl-budget.md",
+"title": "Optimize your crawl budget",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/large-site-managing-crawl-budget?hl=en",
+"bytes": 9087
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/links-crawlable.md",
+"path": "Docs/search-central/docs/crawling-indexing/links-crawlable.md",
+"title": "Link best practices for Google",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=en",
+"bytes": 9104
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing.md",
+"path": "Docs/search-central/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing.md",
+"title": "Mobile site and mobile-first indexing best practices",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing?hl=en",
+"bytes": 23298
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/pause-online-business.md",
+"path": "Docs/search-central/docs/crawling-indexing/pause-online-business.md",
+"title": "Temporarily pause or disable a website",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/pause-online-business?hl=en",
+"bytes": 10461
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/prevent-images-on-your-page.md",
+"path": "Docs/search-central/docs/crawling-indexing/prevent-images-on-your-page.md",
+"title": "Remove images hosted on your site from search results",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/prevent-images-on-your-page?hl=en",
+"bytes": 5558
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/qualify-outbound-links.md",
+"path": "Docs/search-central/docs/crawling-indexing/qualify-outbound-links.md",
+"title": "Qualify your outbound links to Google",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=en",
+"bytes": 3599
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/remove-information.md",
+"path": "Docs/search-central/docs/crawling-indexing/remove-information.md",
+"title": "Remove a page hosted on your site from Google",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/remove-information?hl=en",
+"bytes": 3357
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/robots-meta-tag.md",
+"path": "Docs/search-central/docs/crawling-indexing/robots-meta-tag.md",
+"title": "Robots `meta` tag, `data-nosnippet`, and `X-Robots-Tag` specifications",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=en",
+"bytes": 19656
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/robots/intro.md",
+"path": "Docs/search-central/docs/crawling-indexing/robots/intro.md",
+"title": "Introduction to robots.txt",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=en",
+"bytes": 6783
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/site-move-no-url-changes.md",
+"path": "Docs/search-central/docs/crawling-indexing/site-move-no-url-changes.md",
+"title": "Changing your hosting",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/site-move-no-url-changes?hl=en",
+"bytes": 7167
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/site-move-with-url-changes.md",
+"path": "Docs/search-central/docs/crawling-indexing/site-move-with-url-changes.md",
+"title": "How to move a site",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes?hl=en",
+"bytes": 24329
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/build-sitemap.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/build-sitemap.md",
+"title": "Build and submit a sitemap",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=en",
+"bytes": 14648
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/combine-sitemap-extensions.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/combine-sitemap-extensions.md",
+"title": "How to combine sitemap extensions",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/combine-sitemap-extensions?hl=en",
+"bytes": 5380
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/image-sitemaps.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/image-sitemaps.md",
+"title": "Image sitemaps",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/image-sitemaps?hl=en",
+"bytes": 3734
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/large-sitemaps.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/large-sitemaps.md",
+"title": "Manage your sitemaps with a sitemap index file",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/large-sitemaps?hl=en",
+"bytes": 3899
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/news-sitemap.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/news-sitemap.md",
+"title": "News sitemaps",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap?hl=en",
+"bytes": 5899
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/overview.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/overview.md",
+"title": "Learn about sitemaps",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview?hl=en",
+"bytes": 3857
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/sitemaps/video-sitemaps.md",
+"path": "Docs/search-central/docs/crawling-indexing/sitemaps/video-sitemaps.md",
+"title": "Video sitemaps and alternatives",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?hl=en",
+"bytes": 22108
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/special-tags.md",
+"path": "Docs/search-central/docs/crawling-indexing/special-tags.md",
+"title": "`meta` tags and attributes that Google supports",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/special-tags?hl=en",
+"bytes": 9512
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/troubleshoot-crawling-errors.md",
+"path": "Docs/search-central/docs/crawling-indexing/troubleshoot-crawling-errors.md",
+"title": "Troubleshoot Google Search crawling errors",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/troubleshoot-crawling-errors?hl=en",
+"bytes": 19169
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/url-structure.md",
+"path": "Docs/search-central/docs/crawling-indexing/url-structure.md",
+"title": "URL structure best practices for Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/url-structure?hl=en",
+"bytes": 11301
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/valid-page-metadata.md",
+"path": "Docs/search-central/docs/crawling-indexing/valid-page-metadata.md",
+"title": "Use valid HTML to specify page metadata",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/valid-page-metadata?hl=en",
+"bytes": 1901
+},
+{
+"doc_id": "search-central/docs/crawling-indexing/website-testing.md",
+"path": "Docs/search-central/docs/crawling-indexing/website-testing.md",
+"title": "Minimize A/B testing impact in Google Search",
+"product": "Google Search Central",
+"section": "Docs / Crawling & Indexing",
+"source_url": "https://developers.google.com/search/docs/crawling-indexing/website-testing?hl=en",
+"bytes": 6559
+},
+{
+"doc_id": "search-central/docs/essentials/index.md",
+"path": "Docs/search-central/docs/essentials/index.md",
+"title": "Google Search Essentials",
+"product": "Google Search Central",
+"section": "Docs / Search Essentials",
+"source_url": "https://developers.google.com/search/docs/essentials?hl=en",
+"bytes": 3847
+},
+{
+"doc_id": "search-central/docs/essentials/spam-policies.md",
+"path": "Docs/search-central/docs/essentials/spam-policies.md",
+"title": "Spam policies for Google web search",
+"product": "Google Search Central",
+"section": "Docs / Search Essentials",
+"source_url": "https://developers.google.com/search/docs/essentials/spam-policies?hl=en",
+"bytes": 24903
+},
+{
+"doc_id": "search-central/docs/essentials/technical.md",
+"path": "Docs/search-central/docs/essentials/technical.md",
+"title": "Google Search technical requirements",
+"product": "Google Search Central",
+"section": "Docs / Search Essentials",
+"source_url": "https://developers.google.com/search/docs/essentials/technical?hl=en",
+"bytes": 3181
+},
+{
+"doc_id": "search-central/docs/fundamentals/creating-helpful-content.md",
+"path": "Docs/search-central/docs/fundamentals/creating-helpful-content.md",
+"title": "Creating helpful, reliable, people-first content",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=en",
+"bytes": 12571
+},
+{
+"doc_id": "search-central/docs/fundamentals/do-i-need-seo.md",
+"path": "Docs/search-central/docs/fundamentals/do-i-need-seo.md",
+"title": "Do you need an SEO?",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/do-i-need-seo?hl=en",
+"bytes": 8293
+},
+{
+"doc_id": "search-central/docs/fundamentals/get-on-google.md",
+"path": "Docs/search-central/docs/fundamentals/get-on-google.md",
+"title": "Get your website on Google",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/get-on-google?hl=en",
+"bytes": 7810
+},
+{
+"doc_id": "search-central/docs/fundamentals/get-started-developers.md",
+"path": "Docs/search-central/docs/fundamentals/get-started-developers.md",
+"title": "Get started with Search: a developer's guide",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/get-started-developers?hl=en",
+"bytes": 9299
+},
+{
+"doc_id": "search-central/docs/fundamentals/get-started.md",
+"path": "Docs/search-central/docs/fundamentals/get-started.md",
+"title": "Maintaining your website's SEO",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/get-started?hl=en",
+"bytes": 15043
+},
+{
+"doc_id": "search-central/docs/fundamentals/how-search-works.md",
+"path": "Docs/search-central/docs/fundamentals/how-search-works.md",
+"title": "In-depth guide to how Google Search works",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/how-search-works?hl=en",
+"bytes": 8584
+},
+{
+"doc_id": "search-central/docs/fundamentals/seo-starter-guide.md",
+"path": "Docs/search-central/docs/fundamentals/seo-starter-guide.md",
+"title": "Search Engine Optimization (SEO) Starter Guide",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=en",
+"bytes": 28552
+},
+{
+"doc_id": "search-central/docs/fundamentals/using-gen-ai-content.md",
+"path": "Docs/search-central/docs/fundamentals/using-gen-ai-content.md",
+"title": "Google Search's guidance on using generative AI content on your website",
+"product": "Google Search Central",
+"section": "Docs / SEO Fundamentals",
+"source_url": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content?hl=en",
+"bytes": 3788
+},
+{
+"doc_id": "search-central/docs/index.md",
+"path": "Docs/search-central/docs/index.md",
+"title": "Spot something weird? Send us feedback",
+"product": "Google Search Central",
+"section": "Docs / index.md",
+"source_url": "https://developers.google.com/search/docs?hl=en",
+"bytes": 4891
+},
+{
+"doc_id": "search-central/docs/monitor-debug/bubble-chart-analysis.md",
+"path": "Docs/search-central/docs/monitor-debug/bubble-chart-analysis.md",
+"title": "Improving SEO with a Search Console bubble chart",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/bubble-chart-analysis?hl=en",
+"bytes": 10615
+},
+{
+"doc_id": "search-central/docs/monitor-debug/debugging-search-traffic-drops.md",
+"path": "Docs/search-central/docs/monitor-debug/debugging-search-traffic-drops.md",
+"title": "Debugging drops in Google Search traffic",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops?hl=en",
+"bytes": 15124
+},
+{
+"doc_id": "search-central/docs/monitor-debug/google-analytics-search-console.md",
+"path": "Docs/search-central/docs/monitor-debug/google-analytics-search-console.md",
+"title": "Using Search Console and Google Analytics data for SEO",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/google-analytics-search-console?hl=en",
+"bytes": 20224
+},
+{
+"doc_id": "search-central/docs/monitor-debug/prevent-abuse.md",
+"path": "Docs/search-central/docs/monitor-debug/prevent-abuse.md",
+"title": "Prevent user-generated spam on your site and platform",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/prevent-abuse?hl=en",
+"bytes": 4933
+},
+{
+"doc_id": "search-central/docs/monitor-debug/search-console-start.md",
+"path": "Docs/search-central/docs/monitor-debug/search-console-start.md",
+"title": "Get started with Search Console",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/search-console-start?hl=en",
+"bytes": 6496
+},
+{
+"doc_id": "search-central/docs/monitor-debug/search-operators/all-search-site.md",
+"path": "Docs/search-central/docs/monitor-debug/search-operators/all-search-site.md",
+"title": "`site:` search operator",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=en",
+"bytes": 2984
+},
+{
+"doc_id": "search-central/docs/monitor-debug/search-operators/image-search.md",
+"path": "Docs/search-central/docs/monitor-debug/search-operators/image-search.md",
+"title": "Google Images search operators",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/search-operators/image-search?hl=en",
+"bytes": 1892
+},
+{
+"doc_id": "search-central/docs/monitor-debug/search-operators/index.md",
+"path": "Docs/search-central/docs/monitor-debug/search-operators/index.md",
+"title": "Overview of Google search operators",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/search-operators?hl=en",
+"bytes": 2233
+},
+{
+"doc_id": "search-central/docs/monitor-debug/security/index.md",
+"path": "Docs/search-central/docs/monitor-debug/security/index.md",
+"title": "Preventing and monitoring abuse on your site",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/security?hl=en",
+"bytes": 1635
+},
+{
+"doc_id": "search-central/docs/monitor-debug/security/malware.md",
+"path": "Docs/search-central/docs/monitor-debug/security/malware.md",
+"title": "Malware and unwanted software",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/security/malware?hl=en",
+"bytes": 14386
+},
+{
+"doc_id": "search-central/docs/monitor-debug/security/prevent-malware.md",
+"path": "Docs/search-central/docs/monitor-debug/security/prevent-malware.md",
+"title": "Preventing malware infection",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/security/prevent-malware?hl=en",
+"bytes": 6385
+},
+{
+"doc_id": "search-central/docs/monitor-debug/security/safe-browsing-repeat-offenders.md",
+"path": "Docs/search-central/docs/monitor-debug/security/safe-browsing-repeat-offenders.md",
+"title": "Google Safe Browsing Repeat Offenders Policy",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/security/safe-browsing-repeat-offenders?hl=en",
+"bytes": 1296
+},
+{
+"doc_id": "search-central/docs/monitor-debug/security/social-engineering.md",
+"path": "Docs/search-central/docs/monitor-debug/security/social-engineering.md",
+"title": "Social engineering (phishing and deceptive sites)",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/security/social-engineering?hl=en",
+"bytes": 10737
+},
+{
+"doc_id": "search-central/docs/monitor-debug/trends-start.md",
+"path": "Docs/search-central/docs/monitor-debug/trends-start.md",
+"title": "Get started with Google Trends",
+"product": "Google Search Central",
+"section": "Docs / Monitor & Debug",
+"source_url": "https://developers.google.com/search/docs/monitor-debug/trends-start?hl=en",
+"bytes": 12848
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/designing-a-url-structure-for-ecommerce-sites.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/designing-a-url-structure-for-ecommerce-sites.md",
+"title": "Designing a URL structure for ecommerce websites",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/designing-a-url-structure-for-ecommerce-sites?hl=en",
+"bytes": 8615
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure.md",
+"title": "Help Google understand your ecommerce website structure",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure?hl=en",
+"bytes": 4056
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/how-to-launch-an-ecommerce-website.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/how-to-launch-an-ecommerce-website.md",
+"title": "How to launch a new ecommerce website",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/how-to-launch-an-ecommerce-website?hl=en",
+"bytes": 6794
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce.md",
+"title": "Include structured data relevant to ecommerce",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce?hl=en",
+"bytes": 4892
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/index.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/index.md",
+"title": "Best practices for ecommerce sites in Google Search",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce?hl=en",
+"bytes": 3244
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/pagination-and-incremental-page-loading.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/pagination-and-incremental-page-loading.md",
+"title": "Pagination, incremental page loading, and their impact on Google Search",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/pagination-and-incremental-page-loading?hl=en",
+"bytes": 7897
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/share-your-product-data-with-google.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/share-your-product-data-with-google.md",
+"title": "Share your product data with Google",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/share-your-product-data-with-google?hl=en",
+"bytes": 6883
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/where-ecommerce-data-can-appear-on-google.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/where-ecommerce-data-can-appear-on-google.md",
+"title": "Where ecommerce content can appear on Google",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/where-ecommerce-data-can-appear-on-google?hl=en",
+"bytes": 5237
+},
+{
+"doc_id": "search-central/docs/specialty/ecommerce/write-high-quality-reviews.md",
+"path": "Docs/search-central/docs/specialty/ecommerce/write-high-quality-reviews.md",
+"title": "Write high quality reviews",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews?hl=en",
+"bytes": 3269
+},
+{
+"doc_id": "search-central/docs/specialty/explicit/guidelines.md",
+"path": "Docs/search-central/docs/specialty/explicit/guidelines.md",
+"title": "Guidelines for sites with explicit content",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/explicit/guidelines?hl=en",
+"bytes": 11167
+},
+{
+"doc_id": "search-central/docs/specialty/explicit/troubleshooting.md",
+"path": "Docs/search-central/docs/specialty/explicit/troubleshooting.md",
+"title": "What to do if your site is incorrectly flagged as explicit in Google Search results",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/explicit/troubleshooting?hl=en",
+"bytes": 6947
+},
+{
+"doc_id": "search-central/docs/specialty/international/index.md",
+"path": "Docs/search-central/docs/specialty/international/index.md",
+"title": "Overview of international and multilingual site topics",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/international?hl=en",
+"bytes": 1581
+},
+{
+"doc_id": "search-central/docs/specialty/international/locale-adaptive-pages.md",
+"path": "Docs/search-central/docs/specialty/international/locale-adaptive-pages.md",
+"title": "How Google crawls locale-adaptive pages",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/international/locale-adaptive-pages?hl=en",
+"bytes": 2366
+},
+{
+"doc_id": "search-central/docs/specialty/international/localized-versions.md",
+"path": "Docs/search-central/docs/specialty/international/localized-versions.md",
+"title": "Tell Google about localized versions of your page",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=en",
+"bytes": 18703
+},
+{
+"doc_id": "search-central/docs/specialty/international/managing-multi-regional-sites.md",
+"path": "Docs/search-central/docs/specialty/international/managing-multi-regional-sites.md",
+"title": "Managing multi-regional and multilingual sites",
+"product": "Google Search Central",
+"section": "Docs / Specialty Sites",
+"source_url": "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites?hl=en",
+"bytes": 11015
+},
+{
+"doc_id": "search-central/help/crawling-index-faq.md",
+"path": "Docs/search-central/help/crawling-index-faq.md",
+"title": "Google Search crawling and indexing FAQ",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/crawling-index-faq?hl=en",
+"bytes": 8258
+},
+{
+"doc_id": "search-central/help/debug.md",
+"path": "Docs/search-central/help/debug.md",
+"title": "Debugging your pages",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/debug?hl=en",
+"bytes": 6296
+},
+{
+"doc_id": "search-central/help/index.md",
+"path": "Docs/search-central/help/index.md",
+"title": "Google Search Essentials(https://developers.google.com/search/docs/essentials)",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help?hl=en",
+"bytes": 4789
+},
+{
+"doc_id": "search-central/help/office-hours/2022/december.md",
+"path": "Docs/search-central/help/office-hours/2022/december.md",
+"title": "December 2022 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2022/december?hl=en",
+"bytes": 34580
+},
+{
+"doc_id": "search-central/help/office-hours/2022/november.md",
+"path": "Docs/search-central/help/office-hours/2022/november.md",
+"title": "November 2022 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2022/november?hl=en",
+"bytes": 34344
+},
+{
+"doc_id": "search-central/help/office-hours/2023/april.md",
+"path": "Docs/search-central/help/office-hours/2023/april.md",
+"title": "April 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/april?hl=en",
+"bytes": 16800
+},
+{
+"doc_id": "search-central/help/office-hours/2023/august.md",
+"path": "Docs/search-central/help/office-hours/2023/august.md",
+"title": "August 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/august?hl=en",
+"bytes": 12933
+},
+{
+"doc_id": "search-central/help/office-hours/2023/december.md",
+"path": "Docs/search-central/help/office-hours/2023/december.md",
+"title": "December 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/december?hl=en",
+"bytes": 23051
+},
+{
+"doc_id": "search-central/help/office-hours/2023/january.md",
+"path": "Docs/search-central/help/office-hours/2023/january.md",
+"title": "January 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/january?hl=en",
+"bytes": 24334
+},
+{
+"doc_id": "search-central/help/office-hours/2023/july.md",
+"path": "Docs/search-central/help/office-hours/2023/july.md",
+"title": "July 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/july?hl=en",
+"bytes": 20423
+},
+{
+"doc_id": "search-central/help/office-hours/2023/june.md",
+"path": "Docs/search-central/help/office-hours/2023/june.md",
+"title": "June 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/june?hl=en",
+"bytes": 15884
+},
+{
+"doc_id": "search-central/help/office-hours/2023/march.md",
+"path": "Docs/search-central/help/office-hours/2023/march.md",
+"title": "March 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/march?hl=en",
+"bytes": 22890
+},
+{
+"doc_id": "search-central/help/office-hours/2023/may.md",
+"path": "Docs/search-central/help/office-hours/2023/may.md",
+"title": "May 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/may?hl=en",
+"bytes": 20708
+},
+{
+"doc_id": "search-central/help/office-hours/2023/september.md",
+"path": "Docs/search-central/help/office-hours/2023/september.md",
+"title": "September 2023 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2023/september?hl=en",
+"bytes": 24654
+},
+{
+"doc_id": "search-central/help/office-hours/2024/april.md",
+"path": "Docs/search-central/help/office-hours/2024/april.md",
+"title": "April 2024 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2024/april?hl=en",
+"bytes": 17452
+},
+{
+"doc_id": "search-central/help/office-hours/2024/august.md",
+"path": "Docs/search-central/help/office-hours/2024/august.md",
+"title": "August 2024 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2024/august?hl=en",
+"bytes": 23981
+},
+{
+"doc_id": "search-central/help/office-hours/2024/july.md",
+"path": "Docs/search-central/help/office-hours/2024/july.md",
+"title": "July 2024 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2024/july?hl=en",
+"bytes": 18289
+},
+{
+"doc_id": "search-central/help/office-hours/2024/june.md",
+"path": "Docs/search-central/help/office-hours/2024/june.md",
+"title": "June 2024 Google SEO office hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours/2024/june?hl=en",
+"bytes": 18783
+},
+{
+"doc_id": "search-central/help/office-hours/index.md",
+"path": "Docs/search-central/help/office-hours/index.md",
+"title": "Submit a question idea for Google SEO Office Hours",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/office-hours?hl=en",
+"bytes": 2280
+},
+{
+"doc_id": "search-central/help/report-quality-issues.md",
+"path": "Docs/search-central/help/report-quality-issues.md",
+"title": "Report spam, phishing, or malware",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/report-quality-issues?hl=en",
+"bytes": 2120
+},
+{
+"doc_id": "search-central/help/site-appearance-faq.md",
+"path": "Docs/search-central/help/site-appearance-faq.md",
+"title": "Site appearance in Google Search results FAQ",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/site-appearance-faq?hl=en",
+"bytes": 4974
+},
+{
+"doc_id": "search-central/help/site-position-in-search-faq.md",
+"path": "Docs/search-central/help/site-position-in-search-faq.md",
+"title": "Site position in Google Search results FAQ",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/site-position-in-search-faq?hl=en",
+"bytes": 4725
+},
+{
+"doc_id": "search-central/help/status-dashboard.md",
+"path": "Docs/search-central/help/status-dashboard.md",
+"title": "Using the Google Search Status Dashboard",
+"product": "Google Search Central",
+"section": "Help & FAQ",
+"source_url": "https://developers.google.com/search/help/status-dashboard?hl=en",
+"bytes": 5750
+},
+{
+"doc_id": "search-console-help/answer-10083653.md",
+"path": "Docs/search-console-help/answer-10083653.md",
+"title": "Performance report (Google News)",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/10083653?hl=en",
+"bytes": 19930
+},
+{
+"doc_id": "search-console-help/answer-10267942.md",
+"path": "Docs/search-console-help/answer-10267942.md",
+"title": "Getting started with Search Console",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/10267942?hl=en",
+"bytes": 10030
+},
+{
+"doc_id": "search-console-help/answer-10268906.md",
+"path": "Docs/search-console-help/answer-10268906.md",
+"title": "How are you performing on Google?",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/10268906?hl=en",
+"bytes": 12194
+},
+{
+"doc_id": "search-console-help/answer-10771161.md",
+"path": "Docs/search-console-help/answer-10771161.md",
+"title": "Other tools and resources",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/10771161?hl=en",
+"bytes": 4824
+},
+{
+"doc_id": "search-console-help/answer-12660034.md",
+"path": "Docs/search-console-help/answer-12660034.md",
+"title": "Shopping reports and tools",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/12660034?hl=en",
+"bytes": 6612
+},
+{
+"doc_id": "search-console-help/answer-12818275.md",
+"path": "Docs/search-console-help/answer-12818275.md",
+"title": "robots.txt",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/12818275?hl=en",
+"bytes": 3158
+},
+{
+"doc_id": "search-console-help/answer-12917675.md",
+"path": "Docs/search-console-help/answer-12917675.md",
+"title": "Start a new bulk data export",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/12917675?hl=en",
+"bytes": 6841
+},
+{
+"doc_id": "search-console-help/answer-14907594.md",
+"path": "Docs/search-console-help/answer-14907594.md",
+"title": "Shipping and return settings",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/14907594?hl=en",
+"bytes": 7706
+},
+{
+"doc_id": "search-console-help/answer-17010575.md",
+"path": "Docs/search-console-help/answer-17010575.md",
+"title": "Performance report (Search results): Troubleshooting data discrepancies",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/17010575?hl=en",
+"bytes": 4707
+},
+{
+"doc_id": "search-console-help/answer-17011165.md",
+"path": "Docs/search-console-help/answer-17011165.md",
+"title": "Performance report (Search results): Advanced filtering and comparison",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/17011165?hl=en",
+"bytes": 13658
+},
+{
+"doc_id": "search-console-help/answer-17011259.md",
+"path": "Docs/search-console-help/answer-17011259.md",
+"title": "Performance report (Search results): Dimensions and data groupings",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/17011259?hl=en",
+"bytes": 16056
+},
+{
+"doc_id": "search-console-help/answer-17011364.md",
+"path": "Docs/search-console-help/answer-17011364.md",
+"title": "Performance report (Search results): About the data",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/17011364?hl=en",
+"bytes": 5814
+},
+{
+"doc_id": "search-console-help/answer-2692911.md",
+"path": "Docs/search-console-help/answer-2692911.md",
+"title": "About Data Highlighter",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/2692911?hl=en",
+"bytes": 6166
+},
+{
+"doc_id": "search-console-help/answer-2753960.md",
+"path": "Docs/search-console-help/answer-2753960.md",
+"title": "Add missing data",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/2753960?hl=en",
+"bytes": 4164
+},
+{
+"doc_id": "search-console-help/answer-3069489.md",
+"path": "Docs/search-console-help/answer-3069489.md",
+"title": "Structured Data Markup Helper",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/3069489?hl=en",
+"bytes": 19533
+},
+{
+"doc_id": "search-console-help/answer-35291.md",
+"path": "Docs/search-console-help/answer-35291.md",
+"title": "Do you need an SEO?",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/35291?hl=en",
+"bytes": 13376
+},
+{
+"doc_id": "search-console-help/answer-6062598.md",
+"path": "Docs/search-console-help/answer-6062598.md",
+"title": "​robots.txt report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/6062598?hl=en",
+"bytes": 12374
+},
+{
+"doc_id": "search-console-help/answer-6229325.md",
+"path": "Docs/search-console-help/answer-6229325.md",
+"title": "Featured snippets and your website",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/6229325?hl=en",
+"bytes": 4662
+},
+{
+"doc_id": "search-console-help/answer-7042828.md",
+"path": "Docs/search-console-help/answer-7042828.md",
+"title": "What are impressions, position, and clicks?",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7042828?hl=en",
+"bytes": 40606
+},
+{
+"doc_id": "search-console-help/answer-7320015.md",
+"path": "Docs/search-console-help/answer-7320015.md",
+"title": "AMP Test",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7320015?hl=en",
+"bytes": 11340
+},
+{
+"doc_id": "search-console-help/answer-7440203.md",
+"path": "Docs/search-console-help/answer-7440203.md",
+"title": "Page indexing report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7440203?hl=en",
+"bytes": 57030
+},
+{
+"doc_id": "search-console-help/answer-7445569.md",
+"path": "Docs/search-console-help/answer-7445569.md",
+"title": "Rich Results Test",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7445569?hl=en",
+"bytes": 19358
+},
+{
+"doc_id": "search-console-help/answer-7450883.md",
+"path": "Docs/search-console-help/answer-7450883.md",
+"title": "AMP status report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7450883?hl=en",
+"bytes": 51463
+},
+{
+"doc_id": "search-console-help/answer-7451001.md",
+"path": "Docs/search-console-help/answer-7451001.md",
+"title": "Sitemaps report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7451001?hl=en",
+"bytes": 31937
+},
+{
+"doc_id": "search-console-help/answer-7506797.md",
+"path": "Docs/search-console-help/answer-7506797.md",
+"title": "rich result",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7506797?hl=en",
+"bytes": 2499
+},
+{
+"doc_id": "search-console-help/answer-7552505.md",
+"path": "Docs/search-console-help/answer-7552505.md",
+"title": "Rich result report overview",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7552505?hl=en",
+"bytes": 10048
+},
+{
+"doc_id": "search-console-help/answer-7576553.md",
+"path": "Docs/search-console-help/answer-7576553.md",
+"title": "Performance report (Search results): Overview and basic setup",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7576553?hl=en",
+"bytes": 8765
+},
+{
+"doc_id": "search-console-help/answer-7645831.md",
+"path": "Docs/search-console-help/answer-7645831.md",
+"title": "Indexing",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7645831?hl=en",
+"bytes": 2797
+},
+{
+"doc_id": "search-console-help/answer-7687615.md",
+"path": "Docs/search-console-help/answer-7687615.md",
+"title": "Managing owners, users, and permissions",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/7687615?hl=en",
+"bytes": 24320
+},
+{
+"doc_id": "search-console-help/answer-9008080.md",
+"path": "Docs/search-console-help/answer-9008080.md",
+"title": "Verify your site ownership",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9008080?hl=en",
+"bytes": 49384
+},
+{
+"doc_id": "search-console-help/answer-9012289.md",
+"path": "Docs/search-console-help/answer-9012289.md",
+"title": "URL Inspection tool",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9012289?hl=en",
+"bytes": 55357
+},
+{
+"doc_id": "search-console-help/answer-9044101.md",
+"path": "Docs/search-console-help/answer-9044101.md",
+"title": "Security issues report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9044101?hl=en",
+"bytes": 38509
+},
+{
+"doc_id": "search-console-help/answer-9044175.md",
+"path": "Docs/search-console-help/answer-9044175.md",
+"title": "Manual actions report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9044175?hl=en",
+"bytes": 75763
+},
+{
+"doc_id": "search-console-help/answer-9046777.md",
+"path": "Docs/search-console-help/answer-9046777.md",
+"title": "Discover and your website",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9046777?hl=en",
+"bytes": 12073
+},
+{
+"doc_id": "search-console-help/answer-9049606.md",
+"path": "Docs/search-console-help/answer-9049606.md",
+"title": "Links report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9049606?hl=en",
+"bytes": 12670
+},
+{
+"doc_id": "search-console-help/answer-9079473.md",
+"path": "Docs/search-console-help/answer-9079473.md",
+"title": "Why did my site traffic drop?",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9079473?hl=en",
+"bytes": 19675
+},
+{
+"doc_id": "search-console-help/answer-9128669.md",
+"path": "Docs/search-console-help/answer-9128669.md",
+"title": "Get started with Search Console",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9128669?hl=en",
+"bytes": 8302
+},
+{
+"doc_id": "search-console-help/answer-9128678.md",
+"path": "Docs/search-console-help/answer-9128678.md",
+"title": "Search Engine Optimization (SEO) Starter Guide",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9128678?hl=en",
+"bytes": 46327
+},
+{
+"doc_id": "search-console-help/answer-9131543.md",
+"path": "Docs/search-console-help/answer-9131543.md",
+"title": "Measure your performance on Google",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9131543?hl=en",
+"bytes": 3807
+},
+{
+"doc_id": "search-console-help/answer-9133276.md",
+"path": "Docs/search-console-help/answer-9133276.md",
+"title": "Reports at a glance",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9133276?hl=en",
+"bytes": 18450
+},
+{
+"doc_id": "search-console-help/answer-9205520.md",
+"path": "Docs/search-console-help/answer-9205520.md",
+"title": "Core Web Vitals report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9205520?hl=en",
+"bytes": 27260
+},
+{
+"doc_id": "search-console-help/answer-9216516.md",
+"path": "Docs/search-console-help/answer-9216516.md",
+"title": "Performance report (Discover)",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9216516?hl=en",
+"bytes": 20091
+},
+{
+"doc_id": "search-console-help/answer-9370220.md",
+"path": "Docs/search-console-help/answer-9370220.md",
+"title": "Change of Address tool",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9370220?hl=en",
+"bytes": 10894
+},
+{
+"doc_id": "search-console-help/answer-9419894.md",
+"path": "Docs/search-console-help/answer-9419894.md",
+"title": "Associations",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9419894?hl=en",
+"bytes": 10816
+},
+{
+"doc_id": "search-console-help/answer-9495631.md",
+"path": "Docs/search-console-help/answer-9495631.md",
+"title": "Video indexing report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9495631?hl=en",
+"bytes": 42518
+},
+{
+"doc_id": "search-console-help/answer-9679690.md",
+"path": "Docs/search-console-help/answer-9679690.md",
+"title": "Crawl Stats report",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9679690?hl=en",
+"bytes": 30172
+},
+{
+"doc_id": "search-console-help/answer-9689846.md",
+"path": "Docs/search-console-help/answer-9689846.md",
+"title": "Removals and SafeSearch reports tool",
+"product": "Google Search Console",
+"section": "Help Center",
+"source_url": "https://support.google.com/webmasters/answer/9689846?hl=en",
+"bytes": 24134
+}
+]

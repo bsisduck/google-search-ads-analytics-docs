@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "bsisduck",
+  "description": "Google Search/Ads/Analytics knowledge base and agent skills",
+  "owner": {
+    "name": "bsisduck",
+    "url": "https://github.com/bsisduck"
+  },
+  "plugins": [
+    {
+      "name": "google-search-ads-analytics",
+      "source": "./",
+      "description": "Official Google docs (Search/SEO, Search Console, Ads, GA4) as a validated local knowledge base, plus cited retrieval and a multi-agent SEO audit (skills, slash commands, and workflows).",
+      "version": "1.1.0",
+      "license": "MIT",
+      "homepage": "https://github.com/bsisduck/google-search-ads-analytics-docs",
+      "repository": "https://github.com/bsisduck/google-search-ads-analytics-docs",
+      "category": "knowledge",
+      "keywords": ["seo", "google-search-console", "google-ads", "ga4", "knowledge-base", "rag", "seo-audit", "structured-data"]
+    }
+  ]
+}

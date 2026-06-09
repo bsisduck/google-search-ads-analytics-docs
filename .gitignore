@@ -1,0 +1,19 @@
+# Python env (large, regenerable)
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Browser automation / session artifacts
+.playwright-mcp/
+
+# Machine-specific Claude settings (keep .claude/skills/)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch
+/tmp/
+.claude/skills/google-search-ads-analytics-docs/vec/.daemon.json

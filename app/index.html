@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Interactive visualization (Mermaid) of the Google documentation knowledge base - SEO, Search Console, Google Ads, GA4 - and the recommended AI-agent architecture: retrieval flow, corpus map, and the data build pipeline." />
+<title>Google Search / Ads / Analytics docs - App Flow</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3;
+    --muted:#8b949e; --accent:#58a6ff; --green:#3fb950; --purple:#bc8cff; --amber:#d29922;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  header{padding:28px 32px 12px;border-bottom:1px solid var(--border);}
+  h1{margin:0 0 4px;font-size:22px;font-weight:650;}
+  header p{margin:0;color:var(--muted);font-size:14px;}
+  .stats{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px;}
+  .stat{background:var(--panel);border:1px solid var(--border);border-radius:10px;
+        padding:10px 14px;min-width:104px;}
+  .stat b{display:block;font-size:20px;color:var(--accent);}
+  .stat span{font-size:12px;color:var(--muted);}
+  main{padding:24px 32px 60px;max-width:1200px;margin:0 auto;}
+  section{background:var(--panel);border:1px solid var(--border);border-radius:14px;
+          padding:18px 20px 8px;margin:22px 0;}
+  section h2{margin:0 0 4px;font-size:16px;font-weight:600;}
+  section .sub{color:var(--muted);font-size:13px;margin:0 0 12px;}
+  .mermaid{background:transparent;display:flex;justify-content:center;overflow-x:auto;min-height:360px;align-items:flex-start;}
+  .tabs{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+  .tab{background:var(--panel);border:1px solid var(--border);color:var(--text);
+       padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;}
+  .tab.active{border-color:var(--accent);color:var(--accent);}
+  .hidden{display:none;}
+  footer{color:var(--muted);font-size:12px;text-align:center;padding:0 0 30px;}
+  code{background:#21262d;padding:1px 6px;border-radius:5px;font-size:12px;}
+</style>
+</head>
+<body>
+<header>
+  <h1>📚 Google Search / Ads / Analytics docs - Knowledge Base</h1>
+  <p>Google documentation corpus (SEO · Search Console · Ads · GA4) + recommended AI-agent architecture</p>
+  <div class="stats">
+    <div class="stat"><b>304</b><span>pages (scraped)</span></div>
+    <div class="stat"><b>4</b><span>Google products</span></div>
+    <div class="stat"><b>38</b><span>README indexes</span></div>
+    <div class="stat"><b>~3.8 MB</b><span>Markdown</span></div>
+    <div class="stat"><b>0</b><span>broken links / dups</span></div>
+  </div>
+</header>
+
+<main>
+  <div class="tabs">
+    <div class="tab active" data-tab="flow">🔎 Retrieval flow (agent)</div>
+    <div class="tab" data-tab="map">🗂️ Corpus map</div>
+    <div class="tab" data-tab="pipe">⚙️ Build pipeline</div>
+  </div>
+
+  <section id="flow">
+    <h2>How the AI agent answers a question</h2>
+    <p class="sub">Hybrid: Skill → file search (README maps + grep) escalating to the vector sidecar. Per <code>Docs/KNOWLEDGE-BASE-ARCHITECTURE.md</code>.</p>
+    <pre class="mermaid">
+flowchart TD
+    U([👤 User: question SEO / SC / Ads / GA4]) --> AG[🤖 AI agent]
+    AG --> SK{{"🧩 Skill: SKILL.md<br/>retrieval playbook"}}
+    SK --> MAP["🗺️ Read Docs/README.md<br/>(master map)"]
+    MAP --> SEC["📂 Pick a section<br/>(section README)"]
+    SEC --> GREP["🔎 rank + grep<br/>(search.py / hybrid.py)"]
+    GREP --> HIT{Hits?}
+    HIT -- "yes" --> READ["📄 Read 1-5 files whole"]
+    HIT -- "0 or conceptual<br/>question" --> VEC["🧠 Vector sidecar<br/>lexical + embeddings<br/>RRF + reranker"]
+    VEC --> READ
+    READ --> CITE["✅ Answer + cite<br/>source_url from frontmatter"]
+    CITE --> U
+
+    classDef skill fill:#1f2937,stroke:#bc8cff,color:#e6edf3;
+    classDef store fill:#11261b,stroke:#3fb950,color:#e6edf3;
+    classDef esc fill:#2b2410,stroke:#d29922,color:#e6edf3;
+    class SK skill;
+    class MAP,SEC,GREP,READ store;
+    class VEC esc;
+    </pre>
+  </section>
+
+  <section id="map" class="hidden">
+    <h2>Corpus structure (Docs/)</h2>
+    <p class="sub">Tree mirrors Google's URL structure. Numbers = content pages.</p>
+    <pre class="mermaid">
+flowchart LR
+    KB(["📚 Knowledge Base<br/>304 pages"]) --> SC["🔍 Search Central<br/>184"]
+    KB --> CON["🛠️ Search Console Help<br/>47"]
+    KB --> ADS["📣 Google Ads Help<br/>32"]
+    KB --> GA["📊 Google Analytics 4<br/>41"]
+
+    SC --> SCd["Docs<br/>156"]
+    SC --> SCh["Help / FAQ<br/>23"]
+    SC --> SCc["Crawler specs 4<br/>Case studies 1"]
+    SCd --> f1["Fundamentals 8"]
+    SCd --> f2["Essentials 3"]
+    SCd --> f3["Crawling and Indexing 43"]
+    SCd --> f4["Appearance and Structured Data 71"]
+    SCd --> f5["Monitor and Debug 14"]
+    SCd --> f6["Specialty 15 / Advanced 1"]
+
+    GA --> g1["Collection gtag 16"]
+    GA --> g2["Measurement Protocol 7"]
+    GA --> g3["App Firebase 1"]
+    GA --> g4["Help 17"]
+
+    classDef root fill:#1f2937,stroke:#58a6ff,color:#e6edf3;
+    classDef prod fill:#11261b,stroke:#3fb950,color:#e6edf3;
+    class KB root;
+    class SC,CON,ADS,GA prod;
+    </pre>
+  </section>
+
+  <section id="pipe" class="hidden">
+    <h2>Data pipeline (how the corpus was built)</h2>
+    <p class="sub">Scrape → validate → enrich. Reproducible via <code>scripts/</code>.</p>
+    <pre class="mermaid">
+flowchart TD
+    S1[🌐 Seed URLs] --> S2["🕷️ Scrapling<br/>get -s selector → Markdown"]
+    S2 --> S3["🧭 Discovery<br/>navigation + links (subpages)"]
+    S3 --> S4["👥 Parallel agents<br/>(batches, fetch + retry)"]
+    S4 --> S5{"🔬 QA + audit"}
+    S5 --> Q1["link integrity: 0 broken"]
+    S5 --> Q2["dedup: 0 duplicates"]
+    S5 --> Q3["404 / noise: removed"]
+    Q1 --> S6["🏷️ Enrich<br/>frontmatter + README/INDEX"]
+    Q2 --> S6
+    Q3 --> S6
+    S6 --> OUT([📚 Docs/ - ready knowledge base])
+
+    classDef ok fill:#11261b,stroke:#3fb950,color:#e6edf3;
+    class Q1,Q2,Q3 ok;
+    </pre>
+  </section>
+
+  <footer>Mermaid.js · rendered locally · data from the <code>Docs/</code> corpus</footer>
+</main>
+
+<!-- Mermaid vendored locally (self-contained UMD) - no runtime CDN dependency. -->
+<script src="vendor/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({ startOnLoad:false, theme:"dark", securityLevel:"loose",
+    flowchart:{ curve:"basis", useMaxWidth:true } });
+
+  const panes={flow:document.getElementById("flow"),map:document.getElementById("map"),pipe:document.getElementById("pipe")};
+  const tabs=document.querySelectorAll(".tab");
+
+  function applyTab(name){
+    tabs.forEach(x=>x.classList.toggle("active", x.dataset.tab===name));
+    Object.entries(panes).forEach(([k,p])=>p.classList.toggle("hidden", k!==name));
+  }
+  tabs.forEach(t=>t.addEventListener("click",()=>applyTab(t.dataset.tab)));
+
+  // Render every diagram WHILE all panes are visible (Mermaid can't measure
+  // text inside display:none), then collapse to the active tab.
+  (async () => {
+    Object.values(panes).forEach(p=>p.classList.remove("hidden"));
+    await mermaid.run({ nodes: document.querySelectorAll(".mermaid") });
+    applyTab("flow");
+  })();
+</script>
+</body>
+</html>

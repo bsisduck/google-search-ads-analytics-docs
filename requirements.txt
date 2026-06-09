@@ -1,0 +1,7 @@
+# Scraping + the google-seo-audit page extractor
+scrapling[all]>=0.4.2
+
+# Vector sidecar (google-search-ads-analytics-docs semantic fallback) - scripts/build_embeddings.py, vec_search.py
+sentence-transformers>=3.0
+
+# google-search-ads-analytics-docs/search.py and the pipeline scripts are stdlib-only (no deps).

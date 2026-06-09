@@ -1,0 +1,16 @@
+{
+  "name": "google-search-ads-analytics",
+  "displayName": "Google Search / Ads / Analytics docs",
+  "version": "1.1.0",
+  "description": "A validated local corpus of official Google docs (Search/SEO, Search Console, Ads, GA4) with cited retrieval and a multi-agent SEO audit. Skills auto-trigger; slash commands and workflows included.",
+  "author": {
+    "name": "bsisduck",
+    "url": "https://github.com/bsisduck"
+  },
+  "homepage": "https://github.com/bsisduck/google-search-ads-analytics-docs",
+  "repository": "https://github.com/bsisduck/google-search-ads-analytics-docs",
+  "license": "MIT",
+  "keywords": ["seo", "google-search-console", "google-ads", "ga4", "knowledge-base", "rag", "seo-audit", "structured-data"],
+  "skills": "./.claude/skills/",
+  "commands": ["./commands/"]
+}
